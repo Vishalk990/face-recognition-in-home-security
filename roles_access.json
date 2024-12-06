@@ -1,0 +1,18 @@
+{
+  "Admin": {
+    "Kitchen": true,
+    "Living Room": true
+  },
+  "Parent": {
+    "Kitchen": true,
+    "Living Room": true
+  },
+  "Child": {
+    "Kitchen": false,
+    "Living Room": true
+  },
+  "Pet": {
+    "Kitchen": false,
+    "Living Room": true
+  }
+}
